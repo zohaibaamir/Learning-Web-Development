@@ -1,0 +1,549 @@
+<!doctype HTML>
+<html lang="en-US">
+
+<head>
+	<meta charset="utf-8">
+	<title>Resume</title>	
+	<link rel="icon" href="images/icon.png">
+</head>
+
+<body>
+	<table>
+		<tr>
+			<td> <img src="images/ucp.jpg" alt="Smiley face" height="100px" width="110px"> </td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td><font size="4px"> <strong>Name</strong> </font> </td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="4px"> <strong>Objective</strong> </font></td>
+		</tr>
+		<tr>
+			<td>Zohaib Aamir</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><br>Self-motivated student seeking an internship position in a good organization<br>
+             where my potentials will be fully discovered while working for the company<br> 
+         	 dedicatedly.</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td><font size="4px"> <strong>Cell</strong> </font></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="4px"> <strong>Education and Qualification</strong> </font></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td>XXXX-XXXXXXX</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>University Of Central Punjab</td>
+			<td>3.55</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>2016-2020</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="2px"> <strong>Bachelors in Computer Science</strong> </font></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><strong>(expected)</strong></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td><font size="4px"> <strong>DOB</strong> </font></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>KIPS College</td>
+			<td>B</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>2014-2016</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td>02-07-1999</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="2px"> <strong>ICS(physics)</strong> </font></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td><font size="4px"> <strong>Email</strong> </font></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>The Green School</td>
+			<td>B</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>2012-2014</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td>zohaib.aamir@ucp.edu.pk</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="2px"><strong>Matriculation(computer science)</strong></font></td>
+
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td><font size="4px"> <strong>Home Address</strong> </font></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="4px"> <strong>Professional Experience</strong> </font></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td> 54025 Lahore, Pakistan</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Punjab IT Board</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td> 07/18 - 10/18</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="2px"><strong>Web Devlopment Intern</strong></font></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Abacus Consulting</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>08/17 - 10/17</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="2px"><strong>Software Engineering Intern</strong></font></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Modern Shelters</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>4/15 - 10/16</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="2px"><strong>Social Media Marketer</strong></font></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="4px"> <strong>Honors and Awards</strong> </font></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Rockefeller Executive Program Qualified</td>
+		</tr>
+			<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="4px"> <strong>Projects</strong> </font></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Media Compression/Decompression application</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Image Encryption/Decryption application</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Blockchain based cryptocurrency (basic)</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Sentiment Analysis</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Continous Position Tracking</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Discrete Position Tracking</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Console Chess game</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Red Black Tree</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>•Library Managment system</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td><font size="4px"> <strong>Reference</strong> </font></td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>  <a target="_blank" href="https://github.com/ZohaibAamer">Visit my Github Profile!</a> 
+			</td>
+		</tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>  <a target="_blank" href="https://www.linkedin.com/in/zohaib-aamir-a0423b147/">Visit my Linked-in Profile!</a> 
+			</td>
+		</tr>
+		
+	</table>
+</body>
+</html>
